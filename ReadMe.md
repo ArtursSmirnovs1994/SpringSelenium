@@ -5,7 +5,7 @@ This framework supports multiple environment execution via application propertie
 
 ## Executing tests on different environments.
 By default, application.properties values will be used
-If you want to execute tests on dev environment set environment variable: spring.profiles.active=dev or VM options -Dspring.profiles.active=dev
+If you want to execute tests on dev environment set environment variable: **spring.profiles.active=dev or VM options -Dspring.profiles.active=dev**
 for executing tests on pipeline with specific environment.
 
 ## How to run tests trough docker
